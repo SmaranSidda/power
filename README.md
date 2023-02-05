@@ -48,7 +48,7 @@
 		<div class="header-inner d-flex align-items-start flex-column">
 			<a href="index.html"><img src="themes/html/bako-html/images/logo.png" alt="Bako Doe" /></a>
 			<a href="index.html" class="site-title dot mt-3">Bako Doe</a>
-			<span class="site-slogan">Web Developer</span>
+			<span class="site-slogan">Data Analyst & PowerBI Developer</span>
 			<!-- navigation menu -->
 			<nav>
 				<ul class="vertical-menu scrollspy">
@@ -81,7 +81,7 @@
 		<!-- section hero -->
 		<section class="hero background parallax shadow-dark d-flex align-items-center" id="home" data-image-src="themes/html/bako-html/images/hero.jpg">
 			<div class="cta mx-auto mt-2">
-				<h1 class="mt-0 mb-4">I’m Bako Doe<span class="dot"></span></h1>
+				<h1 class="mt-0 mb-4">I’m Smaran Sidda<span class="dot"></span></h1>
 				<p class="mb-4">He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p>
 				<a href="#" class="btn btn-default btn-lg mr-3"><i class="icon-grid"></i>View Portfolio</a>
 				<div class="spacer d-md-none d-lg-none d-sm-none" data-height="10"></div>
